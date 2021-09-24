@@ -10,3 +10,15 @@ C:\Users\Trmca\Documents\UTP\semestre_2_2021\Des_Soft_VIII\VocalConsonanteVN-NET
 C:\Users\Trmca\Documents\UTP\semestre_2_2021\Des_Soft_VIII\VocalConsonanteVN-NET\AsignaciónNo.6\AsignaciónNo.6\obj\Debug\AsignaciónNo.6.exe
 C:\Users\Trmca\Documents\UTP\semestre_2_2021\Des_Soft_VIII\VocalConsonanteVN-NET\AsignaciónNo.6\AsignaciónNo.6\obj\Debug\AsignaciónNo.6.xml
 C:\Users\Trmca\Documents\UTP\semestre_2_2021\Des_Soft_VIII\VocalConsonanteVN-NET\AsignaciónNo.6\AsignaciónNo.6\obj\Debug\AsignaciónNo.6.pdb
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\VocalConsonanteVN-NET\AsignaciónNo.6\AsignaciónNo.6\bin\Debug\AsignaciónNo.6.exe.config
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\VocalConsonanteVN-NET\AsignaciónNo.6\AsignaciónNo.6\bin\Debug\AsignaciónNo.6.exe
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\VocalConsonanteVN-NET\AsignaciónNo.6\AsignaciónNo.6\bin\Debug\AsignaciónNo.6.pdb
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\VocalConsonanteVN-NET\AsignaciónNo.6\AsignaciónNo.6\bin\Debug\AsignaciónNo.6.xml
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\VocalConsonanteVN-NET\AsignaciónNo.6\AsignaciónNo.6\obj\Debug\AsignaciónNo.6.vbprojAssemblyReference.cache
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\VocalConsonanteVN-NET\AsignaciónNo.6\AsignaciónNo.6\obj\Debug\AsignaciónNo._6.Form1.resources
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\VocalConsonanteVN-NET\AsignaciónNo.6\AsignaciónNo.6\obj\Debug\AsignaciónNo._6.Resources.resources
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\VocalConsonanteVN-NET\AsignaciónNo.6\AsignaciónNo.6\obj\Debug\AsignaciónNo.6.vbproj.GenerateResource.cache
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\VocalConsonanteVN-NET\AsignaciónNo.6\AsignaciónNo.6\obj\Debug\AsignaciónNo.6.vbproj.CoreCompileInputs.cache
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\VocalConsonanteVN-NET\AsignaciónNo.6\AsignaciónNo.6\obj\Debug\AsignaciónNo.6.exe
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\VocalConsonanteVN-NET\AsignaciónNo.6\AsignaciónNo.6\obj\Debug\AsignaciónNo.6.xml
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\VocalConsonanteVN-NET\AsignaciónNo.6\AsignaciónNo.6\obj\Debug\AsignaciónNo.6.pdb
