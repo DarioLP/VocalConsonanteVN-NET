@@ -2,6 +2,7 @@
     Public inop1, inop2, cadena1, valCVocal1, ValCcons, voc, con As String
     Dim cadena2(0 To 100) As String
     Dim x, f As Integer
+
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
 
         inop2 = ""
@@ -29,8 +30,7 @@
 
         Next
 
-
-        MessageBox.Show("cadena: " + con, "opción 1", MessageBoxButtons.OK, MessageBoxIcon.Information)
+        TextBox1.Text = con
 
     End Sub
 

@@ -24,11 +24,12 @@ Partial Class Form1
     Private Sub InitializeComponent()
         Me.btn1 = New System.Windows.Forms.Button()
         Me.Button1 = New System.Windows.Forms.Button()
+        Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
         '
         'btn1
         '
-        Me.btn1.Location = New System.Drawing.Point(56, 89)
+        Me.btn1.Location = New System.Drawing.Point(56, 121)
         Me.btn1.Name = "btn1"
         Me.btn1.Size = New System.Drawing.Size(75, 26)
         Me.btn1.TabIndex = 2
@@ -37,25 +38,35 @@ Partial Class Form1
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(56, 31)
+        Me.Button1.Location = New System.Drawing.Point(56, 74)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(75, 26)
         Me.Button1.TabIndex = 3
         Me.Button1.Text = "Enunciado 1"
         Me.Button1.UseVisualStyleBackColor = True
         '
+        'TextBox1
+        '
+        Me.TextBox1.Location = New System.Drawing.Point(22, 34)
+        Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.Size = New System.Drawing.Size(143, 20)
+        Me.TextBox1.TabIndex = 4
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(187, 159)
+        Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.btn1)
         Me.Name = "Form1"
         Me.Text = "Form1"
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
     Friend WithEvents btn1 As Button
     Friend WithEvents Button1 As Button
+    Friend WithEvents TextBox1 As TextBox
 End Class
