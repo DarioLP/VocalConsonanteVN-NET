@@ -1,27 +1,36 @@
 ﻿Public Class Form1
-    Public inop1, cadena1, valCVocal1, ValCcons, voc, con As String
-
+    Public inop1, inop2, cadena1, valCVocal1, ValCcons, voc, con As String
+    Dim cadena2(0 To 100) As String
+    Dim x, f As Integer
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
 
-        inop1 = ""
+        inop2 = ""
         voc = ""
+        x = 0
+        f = 0
+        Do While x <> -1
+            cadena2(f) = ""
+            inop2 = InputBox("Introducir texto")
 
-
-        inop1 = InputBox("Introducir texto")
-
-        For x = 1 To inop1.Length
-
-            'LCase es está utilizando para detectar las letras tanto mayusculas como minúsculas
-            'Mid es una forma de espesificar la posicion de un caracter de una cadena
-            cadena1 = LCase(Mid(inop1, x, 1))
-
-            If cadena1 = "a" Or cadena1 = "e" Or cadena1 = "i" Or cadena1 = "o" Or cadena1 = "u" Then
-                voc = voc + cadena1
+            If inop2 = "a" Or inop2 = "e" Or inop2 = "i" Or inop2 = "o" Or inop2 = "u" Then
+                x = -1
+            Else
+                cadena2(f) = inop2
+                x = x + 1
+                f = f + 1
             End If
+
+        Loop
+
+        x = 0
+        For x = 0 To f
+
+            con = con + cadena2(x)
 
         Next
 
-        MessageBox.Show("letras de vocales: " + voc, "opción 1", MessageBoxButtons.OK, MessageBoxIcon.Information)
+
+        MessageBox.Show("cadena: " + con, "opción 1", MessageBoxButtons.OK, MessageBoxIcon.Information)
 
     End Sub
 
